@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CheonWoong-Park/CheonWoong-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cheonwoong Park **`@manwoong`**
 
-Here are some ideas to get you started:
+Software Developer & Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manwoong/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://manwoong.com)
+
+</div>
+
+---
+
+- Soongsil Univ — AI Software
+- Air Force Operations Command Cyber Security Team
+- White Hat School 1st
+- AI Software Maestro 17th
+
+---
+
+<div align="center">
