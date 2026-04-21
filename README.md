@@ -12,9 +12,9 @@ Software Developer & Security Researcher
 ---
 
 - Soongsil Univ — AI Software
-- Air Force Operations Command Cyber Security Team
-- White Hat School 1st
 - AI Software Maestro 17th
+- Air Force Operations Command Cyber - Security Team (2024. 04 ~ 2026. 01)
+- White Hat School 1st (2023. 09 ~ 2024. 03)
 
 ---
 
