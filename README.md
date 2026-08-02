@@ -16,9 +16,8 @@ Software Developer & Security Researcher
 - Air Force Operations Command - Cyber Security Team (2024. 04 ~ 2026. 01)
 - White Hat School 1st (2023. 09 ~ 2024. 03)
 
----
+- Naver, Nasa Hall of Fame
 
-- Naver Hall of Fame
-- Nasa Hall of Fame
+---
 
 <div align="center">
