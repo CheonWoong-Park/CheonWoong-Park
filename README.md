@@ -18,4 +18,7 @@ Software Developer & Security Researcher
 
 ---
 
+- Naver Hall of Fame
+- Nasa Hall of Fame
+
 <div align="center">
