@@ -17,6 +17,7 @@ Software Developer & Security Researcher
 - White Hat School 1st (2023. 09 ~ 2024. 03)
 
 - Naver, Nasa Hall of Fame
+- Google Leaderboard (#1353)
 
 ---
 
